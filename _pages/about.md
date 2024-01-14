@@ -39,19 +39,19 @@ Annual Conference of the North American Chapter of the Association for Computati
 Annual Meeting of the Association for Computational Linguistics (ACL 2021 Findings)<br />
 
 <strong><font style = "color:#1f57b8">IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning</font></strong><br />
-Pan Lu, Liang Qiu, <strong>Jiaqi Chen<\strong>, Tony Xia, Yizhou Zhao, Wei Zhang, Zhou Yu, Xiaodan Liang, Song-Chun Zhu<br />
+Pan Lu, Liang Qiu, <strong>Jiaqi Chen</strong>, Tony Xia, Yizhou Zhao, Wei Zhang, Zhou Yu, Xiaodan Liang, Song-Chun Zhu<br />
 Conference on Neural Information Processing Systems (NeurIPS 2021)<br />
 
 <strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose With 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
-Haonan Yan*, <strong>Jiaqi Chen*<\strong>, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng<br />
+Haonan Yan*, <strong>Jiaqi Chen*</strong>, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng<br />
 Conference on Neural Information Processing Systems (NeurIPS 2021)<br />
 
 <strong><font style = "color:#1f57b8">Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting</font></strong><br />
-Lingbo Liu*, <strong>Jiaqi Chen*<\strong>, Hefeng Wu, Guanbin Li, Chenglong Li, Liang Lin<br />
+Lingbo Liu*, <strong>Jiaqi Chen*</strong>, Hefeng Wu, Guanbin Li, Chenglong Li, Liang Lin<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR 2021)<br />
 
 <strong><font style = "color:#1f57b8">Efficient Crowd Counting via Structured Knowledge Transfer</font></strong><br />
-Lingbo Liu*, <strong>Jiaqi Chen*<\strong>, Hefeng Wu, Tianshui Chen, Guanbin Li, Liang Lin<br />
+Lingbo Liu*, <strong>Jiaqi Chen*</strong>, Hefeng Wu, Tianshui Chen, Guanbin Li, Liang Lin<br />
 ACM International Conference on Multimedia (ACM MM 2020)<br />
 
 (* denotes co-first authors) <br />
