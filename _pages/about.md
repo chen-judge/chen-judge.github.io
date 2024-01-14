@@ -44,7 +44,7 @@ Conference on Neural Information Processing Systems (**NeurIPS** 2021)<br />
 
 <strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose With 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
 Haonan Yan*, <strong>Jiaqi Chen*</strong>, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng<br />
-Conference on Neural Information Processing Systems (**NeurIPS** 2021)<br />
+International Conference on Computer Vision (**ICCV** 2021)<br />
 
 <strong><font style = "color:#1f57b8">Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting</font></strong><br />
 Lingbo Liu*, <strong>Jiaqi Chen*</strong>, Hefeng Wu, Guanbin Li, Chenglong Li, Liang Lin<br />
