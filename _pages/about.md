@@ -37,7 +37,7 @@ Annual Conference of the North American Chapter of the Association for Computati
 [[Paper]](https://aclanthology.org/2022.findings-naacl.104/) [[Code]](https://github.com/yangzhch6/UnbiasedMWP) <br />
 
 <strong><font style = "color:#1f57b8">GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning</font></strong><br />
-<strong>Jiaqi Chen</strong>&ast, Jianheng Tang&ast, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing, Liang Lin<br />
+<strong>Jiaqi Chen</strong>\*, Jianheng Tang\*, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing, Liang Lin<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2021 Findings)<br />
 
 <strong><font style = "color:#1f57b8">IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning</font></strong><br />
