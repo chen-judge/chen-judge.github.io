@@ -9,7 +9,7 @@ redirect_from:
 ---
 About Me
 =====
-I'm currently a second-year Ph.D. student in the Computer Science Department at The University of Hong Kong (HKU), supervised by Prof. Kwan-Yee K. Wong. Previously, I received a Research Master's degree at Sun Yat-sen University (SYSU), advised by Prof. Liang Lin and Prof. Xiaodan Liang.
+I'm currently a second-year Ph.D. student in the Computer Science Department at The University of Hong Kong (HKU), supervised by Prof. [Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/). Previously, I received a Research Master's degree at Sun Yat-sen University (SYSU), fortunately advised by Prof. [Liang Lin](https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl) and Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl).
 
 Publications
 ======
