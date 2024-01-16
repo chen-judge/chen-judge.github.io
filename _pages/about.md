@@ -23,7 +23,7 @@ The Conference on Empirical Methods in Natural Language Processing (**EMNLP** 20
 
 <strong><font style = "color:#1f57b8">LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning</font></strong><br />
 Zhicheng Yang, Jinghui Qin, <strong>Jiaqi Chen</strong>, Liang Lin, Xiaodan Liang<br />
-The 2022 Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2022 Findings) <br />
+The Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2022 Findings) <br />
 [[Paper]](https://anthology.aclweb.org/2022.findings-emnlp.1/) [[Code]](https://github.com/yangzhch6/InterMWP)<br />
 
 <strong><font style = "color:#1f57b8">Template-based Contrastive Distillation Pre-training for Math Word Problem Solving</font></strong><br />
