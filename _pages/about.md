@@ -13,7 +13,7 @@ I'm currently a second-year Ph.D. student in the Computer Science Department at 
 
 Publications
 ======
-<strong><font style = "color:#1f57b8">MapGPT: Map-Guided Prompting for Unified Vision-and-Language Navigation</font></strong><br />
+<strong><font style = "color:#1f57b8">MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong<br />
 [[arXiv:2401.07314]](https://arxiv.org/abs/2401.07314) <br />
 
