@@ -25,17 +25,17 @@ IEEE Transactions on Neural Networks and Learning Systems (**TNNLS** 2023) <br /
 <strong><font style = "color:#1f57b8">UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression</font></strong><br />
 <strong>Jiaqi Chen</strong>, Tong Li, Jinghui Qin, Pan Lu, Liang Lin, Chongyu Chen, Xiaodan Liang<br />
 The Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2022) <br />
-[[Paper]](https://aclanthology.org/2022.emnlp-main.218.pdf) [[Code]](https://github.com/chen-judge/UniGeo) <br />
+[[Paper]](https://arxiv.org/abs/2212.02746) [[Code]](https://github.com/chen-judge/UniGeo) <br />
 
 <strong><font style = "color:#1f57b8">LogicSolver: Towards Interpretable Math Word Problem Solving with Logical Prompt-enhanced Learning</font></strong><br />
 Zhicheng Yang, Jinghui Qin, <strong>Jiaqi Chen</strong>, Liang Lin, Xiaodan Liang<br />
 The Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2022 Findings) <br />
-[[Paper]](https://anthology.aclweb.org/2022.findings-emnlp.1/) [[Code]](https://github.com/yangzhch6/InterMWP)<br />
+[[Paper]](https://arxiv.org/abs/2205.08232) [[Code]](https://github.com/yangzhch6/InterMWP)<br />
 
 <strong><font style = "color:#1f57b8">Unbiased Math Word Problems Benchmark for Mitigating Solving Bias</font></strong><br />
 Zhicheng Yang, Jinghui Qin, <strong>Jiaqi Chen</strong>, Xiaodan Liang<br />
 Annual Conference of the North American Chapter of the Association for Computational Linguistics (**NAACL** 2022 Findings)<br />
-[[Paper]](https://aclanthology.org/2022.findings-naacl.104/) [[Code]](https://github.com/yangzhch6/UnbiasedMWP) <br />
+[[Paper]](https://arxiv.org/abs/2205.08108) [[Code]](https://github.com/yangzhch6/UnbiasedMWP) <br />
 
 <strong><font style = "color:#1f57b8">GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning</font></strong><br />
 <strong>Jiaqi Chen</strong>\*, Jianheng Tang\*, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing, Liang Lin<br />
@@ -50,12 +50,12 @@ Conference on Neural Information Processing Systems (**NeurIPS** 2021)<br />
 <strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose With 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
 Haonan Yan*, <strong>Jiaqi Chen*</strong>, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng<br />
 International Conference on Computer Vision (**ICCV** 2021)<br />
-[[Paper]](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_UltraPose_Synthesizing_Dense_Pose_With_1_Billion_Points_by_Human-Body_ICCV_2021_paper.pdf) [[Code]](https://github.com/MomoAILab/ultrapose)
+[[Paper]](https://arxiv.org/abs/2110.15267) [[Code]](https://github.com/MomoAILab/ultrapose)
 
 <strong><font style = "color:#1f57b8">Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting</font></strong><br />
 Lingbo Liu*, <strong>Jiaqi Chen*</strong>, Hefeng Wu, Guanbin Li, Chenglong Li, Liang Lin<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR** 2021)<br />
-[[Paper]](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Cross-Modal_Collaborative_Representation_Learning_and_a_Large-Scale_RGBT_Benchmark_for_CVPR_2021_paper.pdf) [[Code]](https://github.com/chen-judge/RGBTCrowdCounting)
+[[Paper]](https://arxiv.org/abs/2012.04529) [[Code]](https://github.com/chen-judge/RGBTCrowdCounting)
 
 <strong><font style = "color:#1f57b8">Efficient Crowd Counting via Structured Knowledge Transfer</font></strong><br />
 Lingbo Liu*, <strong>Jiaqi Chen*</strong>, Hefeng Wu, Tianshui Chen, Guanbin Li, Liang Lin<br />
