@@ -47,7 +47,7 @@ Pan Lu, Liang Qiu, <strong>Jiaqi Chen</strong>, Tony Xia, Yizhou Zhao, Wei Zhang
 Conference on Neural Information Processing Systems (**NeurIPS** 2021)<br />
 [[Paper]](https://arxiv.org/abs/2110.13214) [[Code]](https://iconqa.github.io/)
 
-<strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose With 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
+<strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
 Haonan Yan*, <strong>Jiaqi Chen*</strong>, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng<br />
 International Conference on Computer Vision (**ICCV** 2021)<br />
 [[Paper]](https://arxiv.org/abs/2110.15267) [[Code]](https://github.com/MomoAILab/ultrapose)
