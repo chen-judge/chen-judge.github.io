@@ -23,19 +23,19 @@
   <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
         rel="stylesheet">
 
-  <link rel="stylesheet" href="./static/css/bulma.min.css">
-  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
-  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
-  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet" href="css/bulma.min.css">
+  <link rel="stylesheet" href="css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="css/bulma-slider.min.css">
+  <link rel="stylesheet" href="css/fontawesome.all.min.css">
   <link rel="stylesheet"
         href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="stylesheet" href="css/index.css">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-  <script defer src="./static/js/fontawesome.all.min.js"></script>
-  <script src="./static/js/bulma-carousel.min.js"></script>
-  <script src="./static/js/bulma-slider.min.js"></script>
-  <script src="./static/js/index.js"></script>
+  <script defer src="js/fontawesome.all.min.js"></script>
+  <script src="js/bulma-carousel.min.js"></script>
+  <script src="js/bulma-slider.min.js"></script>
+  <script src="js/index.js"></script>
 </head>
 <body>
 
@@ -85,7 +85,7 @@
                 </a>
               </span>
               <span class="link-block">
-                <a href="https://github.com/chen-judge/MapGPT/"
+                <a href="https://github.com/chen-judge/MapGPT/index.html"
                    class="external-link button is-normal is-rounded is-dark">
                   <span class="icon">
                       <i class="fab fa-github"></i>
@@ -127,7 +127,7 @@
       <div class="column is-full-width">
         <br />
         <h2 class="title is-3">Introduction</h2>
-        <img src="./static/images/intro.png" alt="introduction" style="width:50%; ">
+        <img src="images/intro.png" alt="introduction" style="width:50%; ">
         <div class="content has-text-justified"> <!-- left-aligned -->
           <p>
             A comparison of the thinking process of the GPT agent without and with topological maps. Given only a local action space, the agent may explore aimlessly, especially when navigation errors have already occurred. Incorporating topological maps enables the agent to understand spatial structures and engage in global exploration and path planning.
@@ -142,7 +142,7 @@
       <div class="column is-full-width">
         <br />
         <h2 class="title is-3">Method</h2>
-        <img src="./static/images/framework.png" alt="pipeline" style="width:100%; ">
+        <img src="images/framework.png" alt="pipeline" style="width:100%; ">
         <div class="content has-text-justified">
           <p>
               Our basic system consists of two types of prompts, namely task description and fundamental inputs. We introduce a map-guided prompting method that builds an online-constructed topological map into prompts, activating the agent's global exploration. We further propose an adaptive mechanism to perform multi-step path planning on this map, systematically exploring candidate nodes or sub-goals. Note that vision models are optional, and viewpoint information can be represented using either the image or textual description of the observations.
@@ -157,13 +157,13 @@
         <br />
         <h2 class="title is-3">Results</h2>
          <div class="image-container">
-          <img src="./static/images/table1.png" alt="table1" style="width:50%; ">
+          <img src="images/table1.png" alt="table1" style="width:50%; ">
          </div>
          <div class="image-container">
-          <img src="./static/images/table2.png" alt="table2" style="width:50%; ">
+          <img src="images/table2.png" alt="table2" style="width:50%; ">
          </div >
          <div class="image-container">
-          <img src="./static/images/table3.png" alt="table3" style="width:50%; ">
+          <img src="images/table3.png" alt="table3" style="width:50%; ">
          </div>
       </div>
     </div>
