@@ -16,7 +16,7 @@ Publications
 <strong><font style = "color:#1f57b8">MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2024)<br />
-[Paper](https://arxiv.org/abs/2401.07314) [[Project]](https://chen-judge.github.io/MapGPT/) [[Code]](https://github.com/chen-judge/MapGPT/) <br />
+[[Paper]](https://arxiv.org/abs/2401.07314) [[Project]](https://chen-judge.github.io/MapGPT/) [[Code]](https://github.com/chen-judge/MapGPT/) <br />
 
 <strong><font style = "color:#1f57b8">Template-based Contrastive Distillation Pre-training for Math Word Problem Solving</font></strong><br />
 Jinghui Qin, Zhicheng Yang, <strong>Jiaqi Chen</strong>, Xiaodan Liang and Liang Lin<br />
