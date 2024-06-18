@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation">
+  <meta name="keywords" content="keywords">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation</title>
+
+  <script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+
+    gtag('js', new Date());
+
+    gtag('config', 'G-PYVRSFMDRL');
+  </script>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+  <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+  <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+  <script src="./static/js/bulma-carousel.min.js"></script>
+  <script src="./static/js/bulma-slider.min.js"></script>
+  <script src="./static/js/index.js"></script>
+</head>
+<body>
+
+<style>
+  .image-container {
+    margin-bottom: 40px; /* set margin */
+  }
+</style>
+
+  <section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+          <h1 class="title is-1 publication-title">MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation</h1>
+          <div class="is-size-5 publication-authors">
+            <span class="author-block">
+              <a href="https://chen-judge.github.io/">Jiaqi Chen</a><sup>1</sup>,</span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=7tNbAJcAAAAJ">Bingqian Lin</a><sup>2</sup>,</span>
+            <span class="author-block">
+              <a href="https://www.linkedin.com/in/Xuran0a444198/">Ran Xu</a><sup>3</sup>,</span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=NAE43roAAAAJ">Zhenhua Chai</a><sup>3</sup>,</span>
+            <span class="author-block">
+              <a href="https://scholar.google.com/citations?user=voxznZAAAAAJ">Xiaodan Liang</a><sup>2</sup>,</span>
+            <span class="author-block">
+              <a href="https://i.cs.hku.hk/~kykwong/index.html">Kwan-Yee K. Wong</a><sup>1</sup></span>
+
+          </div>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><sup>1</sup>The University of Hong Kong,</span>
+            <span class="author-block"><sup>2</sup>Sun Yat-sen University,</span>
+            <span class="author-block"><sup>3</sup>Meituan</span>
+          </div>
+
+          <div class="column has-text-centered">
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2401.07314"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fas fa-file-pdf"></i>
+                  </span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://github.com/chen-judge/MapGPT/"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon">
+                      <i class="fab fa-github"></i>
+                  </span>
+                  <span>Code</span>
+                  </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<section class="section">
+  <div class="container is-max-desktop">
+  <!-- <div class="container"> -->
+
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full-width">
+        <br />
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+          Embodied agents equipped with GPT as their brains have exhibited extraordinary decision-making and generalization abilities across various tasks. However, existing zero-shot agents for vision-and-language navigation (VLN) only prompt GPT-4 to select potential locations within localized environments, without constructing an effective "global-view" for the agent to understand the overall environment. In this work, we present a novel map-guided GPT-based agent, dubbed MapGPT, which introduces an online linguistic-formed map to encourage global exploration.
+          Specifically, we build an online map and incorporate it into the prompts that include node information and topological relationships, to help GPT understand the spatial environment.
+          Benefiting from this design, we further propose an adaptive planning mechanism to assist the agent in performing multi-step path planning based on a map, systematically exploring multiple candidate nodes or sub-goals step by step.
+          Extensive experiments demonstrate that our MapGPT is applicable to both GPT-4 and GPT-4V, achieving state-of-the-art zero-shot performance on R2R and REVERIE simultaneously (~10% and ~12% improvements in SR), and showcasing the newly emergent global thinking and path planning abilities of the GPT.
+          </p>
+        </div>
+      </div>
+    </div>
+
+
+
+    <!-- Introduction. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full-width">
+        <br />
+        <h2 class="title is-3">Introduction</h2>
+        <img src="./static/images/intro.png" alt="introduction" style="width:50%; ">
+        <div class="content has-text-justified"> <!-- left-aligned -->
+          <p>
+            A comparison of the thinking process of the GPT agent without and with topological maps. Given only a local action space, the agent may explore aimlessly, especially when navigation errors have already occurred. Incorporating topological maps enables the agent to understand spatial structures and engage in global exploration and path planning.
+          </p>
+        </div>
+      </div>
+    </div>
+
+
+      <!-- Pipeline. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full-width">
+        <br />
+        <h2 class="title is-3">Method</h2>
+        <img src="./static/images/framework.png" alt="pipeline" style="width:100%; ">
+        <div class="content has-text-justified">
+          <p>
+              Our basic system consists of two types of prompts, namely task description and fundamental inputs. We introduce a map-guided prompting method that builds an online-constructed topological map into prompts, activating the agent's global exploration. We further propose an adaptive mechanism to perform multi-step path planning on this map, systematically exploring candidate nodes or sub-goals. Note that vision models are optional, and viewpoint information can be represented using either the image or textual description of the observations.
+          </p>
+        </div>
+      </div>
+    </div>
+
+      <!-- Results. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full-width">
+        <br />
+        <h2 class="title is-3">Results</h2>
+         <div class="image-container">
+          <img src="./static/images/table1.png" alt="table1" style="width:50%; ">
+         </div>
+         <div class="image-container">
+          <img src="./static/images/table2.png" alt="table2" style="width:50%; ">
+         </div >
+         <div class="image-container">
+          <img src="./static/images/table3.png" alt="table3" style="width:50%; ">
+         </div>
+      </div>
+    </div>
+
+
+<section class="section" id="BibTeX">
+<div class="container is-max-desktop content">
+<h2 class="title">BibTeX</h2>
+<pre><code>
+@inproceedings{chen2024mapgpt,
+  title={MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation},
+  author={Chen, Jiaqi and Lin, Bingqian and Xu, Ran and Chai, Zhenhua and Liang, Xiaodan and Wong, Kwan-Yee K},
+  booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics",
+  year={2024}
+}
+</code></pre>
+</div>
+</section>
+
+
+
+</body>
+</html>
