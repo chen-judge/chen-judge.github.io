@@ -15,7 +15,7 @@ Publications
 ======
 <strong><font style = "color:#1f57b8">Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Xinmin Liu, Xiaodan Liang, Kwan-Yee K. Wong<br />
-[[arXiv]](https://arxiv.org/abs/2407.05890)) <br />
+[[arXiv]](https://arxiv.org/abs/2407.05890) <br />
 
 <strong><font style = "color:#1f57b8">MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong<br />
@@ -24,7 +24,7 @@ Annual Meeting of the Association for Computational Linguistics (**ACL** 2024)<b
 
 <strong><font style = "color:#1f57b8">NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning</font></strong><br />
 Bingqian Lin, Yunshuang Nie, Ziming Wei, **Jiaqi Chen**, Shikui Ma, Jianhua Han, Hang Xu, Xiaojun Chang, Xiaodan Liang <br />
-[[arXiv]](https://arxiv.org/abs/2403.07376)) [[Code]](https://github.com/expectorlin/NavCoT)) <br />
+[[arXiv]](https://arxiv.org/abs/2403.07376)) [[Code]](https://github.com/expectorlin/NavCoT) <br />
 
 <strong><font style = "color:#1f57b8">Template-based Contrastive Distillation Pre-training for Math Word Problem Solving</font></strong><br />
 Jinghui Qin, Zhicheng Yang, <strong>Jiaqi Chen</strong>, Xiaodan Liang and Liang Lin<br />
