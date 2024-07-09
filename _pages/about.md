@@ -13,6 +13,10 @@ I'm currently a second-year Ph.D. student in the Computer Science Department at 
 
 Publications
 ======
+<strong><font style = "color:#1f57b8">Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation</font></strong><br />
+**Jiaqi Chen**, Bingqian Lin, Xinmin Liu, Xiaodan Liang, Kwan-Yee K. Wong<br />
+[[arXiv]]([https://arxiv.org/abs/2401.07314](https://arxiv.org/abs/2407.05890)) <br />
+
 <strong><font style = "color:#1f57b8">MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2024)<br />
