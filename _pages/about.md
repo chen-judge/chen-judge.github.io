@@ -15,7 +15,8 @@ Publications
 ======
 <strong><font style = "color:#1f57b8">Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Xinmin Liu, Lin Ma, Xiaodan Liang, Kwan-Yee K. Wong<br />
-[[arXiv]](https://arxiv.org/abs/2407.05890) <br />
+Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)<br />
+[[Paper]](https://arxiv.org/abs/2407.05890) <br />
 
 <strong><font style = "color:#1f57b8">MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong<br />
