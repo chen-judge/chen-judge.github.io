@@ -146,10 +146,18 @@
               Our proposed low-level affordances-oriented planning framework with visual affordances prompting. First, we utilize Grounded SAM to segment the visible ground as affordances. We then introduce visual affordances prompting (VAP), where we uniformly scatter  points with numeric labels within the affordances. After querying the LLM by combining the visualized new image with task definition, instruction, waypoint definition, and output requirements, we finally obtain potential waypoints and paths in this view.
           </p>
         </div>
+
+        <img src="images/high_level.png" alt="pipeline" style="width:60%; ">
+        <div class="content has-text-justified">
+          <p>
+             Our proposed high-level PathAgent. Different from previous zero-shot VLN agents, we utilize visual prompting by marking candidate waypoints and their corresponding paths (i.e., Path 0-5) in all four observation directions.  This allows the PathAgent to make action decisions in the proficient RGB space and then map pixel-based paths to 3D coordinates using depth information and camera intrinsic parameters.
+          </p>
+        </div>
+        
       </div>
     </div>
 
-    <!-- Pipeline. -->
+<!--     <!-- Pipeline. -->
     <div class="columns is-centered has-text-centered">
       <div class="column is-full-width">
         <br />
@@ -161,7 +169,7 @@
           </p>
         </div>
       </div>
-    </div>
+    </div> -->
 
       <!-- Results. -->
     <div class="columns is-centered has-text-centered">
@@ -191,7 +199,7 @@
 <div class="container is-max-desktop content">
 <h2 class="title">BibTeX</h2>
 <pre><code>
-AO-Planner
+<b>AO-Planner</b>
 @article{chen2024affordances,
   title={Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation},
   author={Chen, Jiaqi and Lin, Bingqian and Liu, Xinmin and Ma, Lin and Liang, Xiaodan and Wong, Kwan-Yee~K.},
@@ -199,7 +207,7 @@ AO-Planner
   year={2024}
 }
 
-MapGPT
+<b>MapGPT</b>
 @inproceedings{chen2024mapgpt,
   title={MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation},
   author={Chen, Jiaqi and Lin, Bingqian and Xu, Ran and Chai, Zhenhua and Liang, Xiaodan and Wong, Kwan-Yee~K.},
