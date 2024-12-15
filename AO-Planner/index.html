@@ -51,7 +51,7 @@
       <div class="columns is-centered">
         <div class="column has-text-centered">
           <h1 class="title is-1 publication-title">Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation</h1>
-          <h1 class="title is-3">ACL 2024</h1>
+          <h1 class="title is-3">AAAI 2025</h1>
           <div class="is-size-5 publication-authors">
             <span class="author-block">
               <a href="https://chen-judge.github.io/">Jiaqi Chen</a><sup>1</sup>,</span>
@@ -125,7 +125,7 @@
       <div class="column is-full-width">
         <br />
         <h2 class="title is-3">Introduction</h2>
-        <img src="images/intro.png" alt="introduction" style="width:50%; ">
+        <img src="images/intro.png" alt="introduction" style="width:60%; ">
         <div class="content has-text-justified"> <!-- left-aligned -->
           <p>
             In discrete VLN, LLMs only need to perform high-level planning by selecting a view as the forward direction (left). For continuous environments, previous agents rely on collecting simulator data to train low-level policies. In this paper, we utilize multimodal foundation models and propose visual affordances prompting to predict low-level candidate waypoints and paths in a zero-shot setting (right).
@@ -149,19 +149,39 @@
       </div>
     </div>
 
+    <!-- Pipeline. -->
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-full-width">
+        <br />
+        <h2 class="title is-3">Method</h2>
+        <img src="images/high_level.png" alt="pipeline" style="width:60%; ">
+        <div class="content has-text-justified">
+          <p>
+             Our proposed high-level PathAgent. Different from previous zero-shot VLN agents, we utilize visual prompting by marking candidate waypoints and their corresponding paths (i.e., Path 0-5) in all four observation directions.  This allows the PathAgent to make action decisions in the proficient RGB space and then map pixel-based paths to 3D coordinates using depth information and camera intrinsic parameters.
+          </p>
+        </div>
+      </div>
+    </div>
+
       <!-- Results. -->
     <div class="columns is-centered has-text-centered">
       <div class="column is-full-width">
         <br />
         <h2 class="title is-3">Results</h2>
          <div class="image-container">
-          <img src="images/table1.png" alt="table1" style="width:50%; ">
+          <img src="images/table1.png" alt="table1" style="width:100%; ">
          </div>
          <div class="image-container">
           <img src="images/table2.png" alt="table2" style="width:50%; ">
          </div >
          <div class="image-container">
           <img src="images/table3.png" alt="table3" style="width:50%; ">
+         </div>
+        <div class="image-container">
+          <img src="images/table4.png" alt="table4" style="width:50%; ">
+         </div>
+        <div class="image-container">
+          <img src="images/figure4.png" alt="figure4" style="width:100%; ">
          </div>
       </div>
     </div>
