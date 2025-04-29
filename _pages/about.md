@@ -17,6 +17,10 @@ Publications
 **Jiaqi Chen**, Bang Zhang, Ruotian Ma, Peisong Wang, Xiaodan Liang, Zhaopeng Tu, Xiaolong Li, Kwan-Yee K. Wong<br />
 [[arXiv]](https://arxiv.org/abs/2504.19162)  [[Project]](https://chen-judge.github.io/SPC/) [[Code]](https://github.com/chen-judge/SPC/) <br />
 
+<strong><font style = "color:#1f57b8">S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning</font></strong><br />
+Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, **Jiaqi Chen**, Bang Zhang, Xin Zhou, Nan Du, Jia Li<br />
+[[arXiv]](https://arxiv.org/abs/2502.12853)  [[Code]](https://github.com/NineAbyss/S2R/) <br />
+
 <strong><font style = "color:#1f57b8">Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Xinmin Liu, Lin Ma, Xiaodan Liang, Kwan-Yee K. Wong<br />
 Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)<br />
