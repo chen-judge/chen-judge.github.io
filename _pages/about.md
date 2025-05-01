@@ -16,7 +16,7 @@ Please refer to my [Google Scholar profile](https://scholar.google.com/citations
 My research mainly covers the following three areas. <br />
 (* denotes co-first authors)
 
-<span style="font-size:20px;">Reasoning</span>
+<span style="font-size:18px;">**Reasoning**</span>
 - <strong><font style = "color:#1f57b8">SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning</font></strong><br />
 **Jiaqi Chen**, Bang Zhang, Ruotian Ma, Peisong Wang, Xiaodan Liang, Zhaopeng Tu, Xiaolong Li, Kwan-Yee K. Wong<br />
 [[arXiv:2504.19162]](https://arxiv.org/abs/2504.19162)  [[Project]](https://chen-judge.github.io/SPC/) [[Code]](https://github.com/chen-judge/SPC/) <br />
@@ -36,7 +36,7 @@ Pan Lu, Liang Qiu, <strong>Jiaqi Chen</strong>, Tony Xia, Yizhou Zhao, Wei Zhang
 Conference on Neural Information Processing Systems (**NeurIPS** 2021)<br />
 [[Paper]](https://arxiv.org/abs/2110.13214) [[Code]](https://iconqa.github.io/)
 
-<span style="font-size:20px;">Agent</span>
+<span style="font-size:18px;">**Agent**</span>
 
 - <strong><font style = "color:#1f57b8">Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Xinmin Liu, Lin Ma, Xiaodan Liang, Kwan-Yee K. Wong<br />
@@ -48,7 +48,7 @@ Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2024)<br />
 [[Paper]](https://arxiv.org/abs/2401.07314) [[Project]](https://chen-judge.github.io/MapGPT/) [[Code]](https://github.com/chen-judge/MapGPT/) <br />
 
-<span style="font-size:20px;">Computer Vision</span>
+<span style="font-size:18px;">**Computer Vision**</span>
 - <strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
 Haonan Yan*, <strong>Jiaqi Chen*</strong>, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng<br />
 International Conference on Computer Vision (**ICCV** 2021)<br />
