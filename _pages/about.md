@@ -7,66 +7,65 @@ redirect_from:
   - /about/
   - /about.html
 ---
-About Me
-=====
+# About Me
 I am currently a third-year Ph.D. student in the Department of Computer Science at The University of Hong Kong (HKU), honored to be supervised by Prof. [Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/). Previously, I received a Research Master's degree at Sun Yat-sen University (SYSU), fortunately advised by Prof. [Liang Lin](https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl) and Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). I completed my Bachelor’s degree at Xidian University. My research interests lie in LLM reasoning, agent, and multimodal AI. Please feel free to contact me via [jqchen(at)cs.hku.hk](mailto:jqchen@cs.hku.hk)!
 
-Featured Publications
-====
+# Featured Publications
 Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=UCKjK3cAAAAJ) for the full publication list. <br />
 My research mainly covers the following three areas. <br />
 (* denotes co-first authors) <br />
 ## Reasoning
-<strong><font style = "color:#1f57b8">SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning</font></strong><br />
+- <strong><font style = "color:#1f57b8">SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning</font></strong><br />
 **Jiaqi Chen**, Bang Zhang, Ruotian Ma, Peisong Wang, Xiaodan Liang, Zhaopeng Tu, Xiaolong Li, Kwan-Yee K. Wong<br />
 [[arXiv]](https://arxiv.org/abs/2504.19162)  [[Project]](https://chen-judge.github.io/SPC/) [[Code]](https://github.com/chen-judge/SPC/) <br />
 
-<strong><font style = "color:#1f57b8">UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression</font></strong><br />
+- <strong><font style = "color:#1f57b8">UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression</font></strong><br />
 <strong>Jiaqi Chen</strong>, Tong Li, Jinghui Qin, Pan Lu, Liang Lin, Chongyu Chen, Xiaodan Liang<br />
 The Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2022) <br />
 [[Paper]](https://arxiv.org/abs/2212.02746) [[Code]](https://github.com/chen-judge/UniGeo) <br />
 
-<strong><font style = "color:#1f57b8">GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning</font></strong><br />
+- <strong><font style = "color:#1f57b8">GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning</font></strong><br />
 <strong>Jiaqi Chen</strong>\*, Jianheng Tang\*, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing, Liang Lin<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2021 Findings)<br />
 [[Paper]](https://arxiv.org/abs/2105.14517) [[Code]](https://github.com/chen-judge/GeoQA)
 
-<strong><font style = "color:#1f57b8">IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning</font></strong><br />
+- <strong><font style = "color:#1f57b8">IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning</font></strong><br />
 Pan Lu, Liang Qiu, <strong>Jiaqi Chen</strong>, Tony Xia, Yizhou Zhao, Wei Zhang, Zhou Yu, Xiaodan Liang, Song-Chun Zhu<br />
 Conference on Neural Information Processing Systems (**NeurIPS** 2021)<br />
 [[Paper]](https://arxiv.org/abs/2110.13214) [[Code]](https://iconqa.github.io/)
 
 ## Agent
 
-<strong><font style = "color:#1f57b8">Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation</font></strong><br />
+- <strong><font style = "color:#1f57b8">Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Xinmin Liu, Lin Ma, Xiaodan Liang, Kwan-Yee K. Wong<br />
 Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)<br />
 [[Paper]](https://arxiv.org/abs/2407.05890)  [[Project]](https://chen-judge.github.io/AO-Planner/) [[Code]](https://github.com/chen-judge/AO-Planner/) <br />
 
-<strong><font style = "color:#1f57b8">MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation</font></strong><br />
+- <strong><font style = "color:#1f57b8">MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Ran Xu, Zhenhua Chai, Xiaodan Liang, Kwan-Yee K. Wong<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2024)<br />
 [[Paper]](https://arxiv.org/abs/2401.07314) [[Project]](https://chen-judge.github.io/MapGPT/) [[Code]](https://github.com/chen-judge/MapGPT/) <br />
 
 ## Computer Vision
-<strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
+- <strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
 Haonan Yan*, <strong>Jiaqi Chen*</strong>, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng<br />
 International Conference on Computer Vision (**ICCV** 2021)<br />
 [[Paper]](https://arxiv.org/abs/2110.15267) [[Code]](https://github.com/MomoAILab/ultrapose)
 
-<strong><font style = "color:#1f57b8">Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting</font></strong><br />
+- <strong><font style = "color:#1f57b8">Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting</font></strong><br />
 Lingbo Liu*, <strong>Jiaqi Chen*</strong>, Hefeng Wu, Guanbin Li, Chenglong Li, Liang Lin<br />
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR** 2021)<br />
 [[Paper]](https://arxiv.org/abs/2012.04529) [[Code]](https://github.com/chen-judge/RGBTCrowdCounting)
 
-<strong><font style = "color:#1f57b8">Efficient Crowd Counting via Structured Knowledge Transfer</font></strong><br />
+- <strong><font style = "color:#1f57b8">Efficient Crowd Counting via Structured Knowledge Transfer</font></strong><br />
 Lingbo Liu*, <strong>Jiaqi Chen*</strong>, Hefeng Wu, Tianshui Chen, Guanbin Li, Liang Lin<br />
 ACM International Conference on Multimedia (**MM** 2020)<br />
 [[Paper]](https://arxiv.org/abs/2003.10120) [[Code]](https://github.com/HCPLab-SYSU/SKT)
 
 
 
-# Other Publications
+Other Publications
+====
 <strong><font style = "color:#1f57b8">S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning</font></strong><br />
 Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, **Jiaqi Chen**, Bang Zhang, Xin Zhou, Nan Du, Jia Li<br />
 [[arXiv]](https://arxiv.org/abs/2502.12853)  [[Code]](https://github.com/NineAbyss/S2R/) <br />
