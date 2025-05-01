@@ -13,11 +13,11 @@ I am currently a third-year Ph.D. student in the Department of Computer Science 
 # Featured Publications
 Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=UCKjK3cAAAAJ) for the full publication list. <br />
 My research mainly covers the following three areas. <br />
-(* denotes co-first authors) <br />
+(* denotes co-first authors)
 ## Reasoning
 - <strong><font style = "color:#1f57b8">SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning</font></strong><br />
 **Jiaqi Chen**, Bang Zhang, Ruotian Ma, Peisong Wang, Xiaodan Liang, Zhaopeng Tu, Xiaolong Li, Kwan-Yee K. Wong<br />
-[[arXiv]](https://arxiv.org/abs/2504.19162)  [[Project]](https://chen-judge.github.io/SPC/) [[Code]](https://github.com/chen-judge/SPC/) <br />
+[[arXiv:2504.19162]](https://arxiv.org/abs/2504.19162)  [[Project]](https://chen-judge.github.io/SPC/) [[Code]](https://github.com/chen-judge/SPC/) <br />
 
 - <strong><font style = "color:#1f57b8">UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression</font></strong><br />
 <strong>Jiaqi Chen</strong>, Tong Li, Jinghui Qin, Pan Lu, Liang Lin, Chongyu Chen, Xiaodan Liang<br />
