@@ -13,7 +13,7 @@ I am currently a third-year Ph.D. student in the Department of Computer Science 
 
 Featured Publications
 ====
-Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=UCKjK3cAAAAJ) for full publication list. <br />
+Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=UCKjK3cAAAAJ) for the full publication list. <br />
 My research mainly covers the following three areas. <br />
 (* denotes co-first authors) <br />
 ### Reasoning
