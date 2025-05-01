@@ -7,15 +7,16 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# About Me
+## About Me
 I am currently a third-year Ph.D. student in the Department of Computer Science at The University of Hong Kong (HKU), honored to be supervised by Prof. [Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/). Previously, I received a Research Master's degree at Sun Yat-sen University (SYSU), fortunately advised by Prof. [Liang Lin](https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl) and Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). I completed my Bachelor’s degree at Xidian University. My research interests lie in LLM reasoning, agent, and multimodal AI. Please feel free to contact me via [jqchen(at)cs.hku.hk](mailto:jqchen@cs.hku.hk)!
 
-# Featured Publications
-------
+## Featured Publications
+
 Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=UCKjK3cAAAAJ) for the full publication list. <br />
 My research mainly covers the following three areas. <br />
 (* denotes co-first authors)
-## Reasoning
+
+<span style="font-size:20px;">Reasoning</span>
 - <strong><font style = "color:#1f57b8">SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning</font></strong><br />
 **Jiaqi Chen**, Bang Zhang, Ruotian Ma, Peisong Wang, Xiaodan Liang, Zhaopeng Tu, Xiaolong Li, Kwan-Yee K. Wong<br />
 [[arXiv:2504.19162]](https://arxiv.org/abs/2504.19162)  [[Project]](https://chen-judge.github.io/SPC/) [[Code]](https://github.com/chen-judge/SPC/) <br />
@@ -35,7 +36,7 @@ Pan Lu, Liang Qiu, <strong>Jiaqi Chen</strong>, Tony Xia, Yizhou Zhao, Wei Zhang
 Conference on Neural Information Processing Systems (**NeurIPS** 2021)<br />
 [[Paper]](https://arxiv.org/abs/2110.13214) [[Code]](https://iconqa.github.io/)
 
-## Agent
+<span style="font-size:20px;">Agent</span>
 
 - <strong><font style = "color:#1f57b8">Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation</font></strong><br />
 **Jiaqi Chen**, Bingqian Lin, Xinmin Liu, Lin Ma, Xiaodan Liang, Kwan-Yee K. Wong<br />
@@ -47,7 +48,7 @@ Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2024)<br />
 [[Paper]](https://arxiv.org/abs/2401.07314) [[Project]](https://chen-judge.github.io/MapGPT/) [[Code]](https://github.com/chen-judge/MapGPT/) <br />
 
-## Computer Vision
+<span style="font-size:20px;">Computer Vision</span>
 - <strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
 Haonan Yan*, <strong>Jiaqi Chen*</strong>, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng<br />
 International Conference on Computer Vision (**ICCV** 2021)<br />
@@ -65,8 +66,8 @@ ACM International Conference on Multimedia (**MM** 2020)<br />
 
 
 
-# Other Publications
-------
+## Other Publications
+
 <strong><font style = "color:#1f57b8">S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning</font></strong><br />
 Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, **Jiaqi Chen**, Bang Zhang, Xin Zhou, Nan Du, Jia Li<br />
 [[arXiv]](https://arxiv.org/abs/2502.12853)  [[Code]](https://github.com/NineAbyss/S2R/) <br />
