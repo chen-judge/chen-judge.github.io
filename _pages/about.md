@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# About Me
 I am currently a third-year Ph.D. student in the Department of Computer Science at The University of Hong Kong (HKU), honored to be supervised by Prof. [Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/). Previously, I received a Research Master's degree at Sun Yat-sen University (SYSU), fortunately advised by Prof. [Liang Lin](https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl) and Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). I completed my Bachelor’s degree at Xidian University. My research interests lie in LLM reasoning, agent, and multimodal AI. Please feel free to contact me via [jqchen(at)cs.hku.hk](mailto:jqchen@cs.hku.hk)!
 
 ## Featured Publications
@@ -29,7 +28,7 @@ The Conference on Empirical Methods in Natural Language Processing (**EMNLP** 20
 - <strong><font style = "color:#1f57b8">GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning</font></strong><br />
 <strong>Jiaqi Chen</strong>\*, Jianheng Tang\*, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing, Liang Lin<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2021 Findings)<br />
-[[Paper]](https://arxiv.org/abs/2105.14517) [[Code]](https://github.com/chen-judge/GeoQA)
+[[Paper]](https://arxiv.org/abs/2105.14517) [[Code]](https://github.com/chen-judge/GeoQA) [[Media]](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247516415&idx=2&sn=efa68338a8175608178f56dd99bcd54d&scene=21#wechat_redirect)
 
 - <strong><font style = "color:#1f57b8">IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning</font></strong><br />
 Pan Lu, Liang Qiu, <strong>Jiaqi Chen</strong>, Tony Xia, Yizhou Zhao, Wei Zhang, Zhou Yu, Xiaodan Liang, Song-Chun Zhu<br />
@@ -78,7 +77,7 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI** 2025)
 [[Paper]](https://arxiv.org/abs/2403.07376) [[Code]](https://github.com/expectorlin/NavCoT) <br />
 
 <strong><font style = "color:#1f57b8">Structured Preference Optimization for Vision-Language Long-Horizon Task Planning</font></strong><br />
-Xiwen Liang, Min Lin, Weiqi Ruan, Rongtao Xu, Yuecheng Liu, Jiaqi Chen, Bingqian Lin, Yuzheng Zhuang, Xiaodan Liang<br />
+Xiwen Liang, Min Lin, Weiqi Ruan, Rongtao Xu, Yuecheng Liu, **Jiaqi Chen**, Bingqian Lin, Yuzheng Zhuang, Xiaodan Liang<br />
 [[arXiv]](https://arxiv.org/abs/2502.20742) 
 
 
