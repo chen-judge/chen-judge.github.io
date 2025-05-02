@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a third-year Ph.D. student in the Department of Computer Science at The University of Hong Kong (HKU), honored to be supervised by Prof. [Kwan-Yee K. Wong](https://i.cs.hku.hk/~kykwong/). Previously, I received a Research Master's degree at Sun Yat-sen University (SYSU), fortunately advised by Prof. [Liang Lin](https://scholar.google.com/citations?user=Nav8m8gAAAAJ&hl) and Prof. [Xiaodan Liang](https://scholar.google.com/citations?user=voxznZAAAAAJ&hl). I completed my Bachelor’s degree at Xidian University. My research interests lie in LLM reasoning, agent, and multimodal AI. Please feel free to contact me via [jqchen(at)cs.hku.hk](mailto:jqchen@cs.hku.hk)!
 
-## Featured Publications
+## Featured Research
 
 Please refer to my [Google Scholar profile](https://scholar.google.com/citations?user=UCKjK3cAAAAJ) for the full publication list. <br />
 My research mainly covers the following three areas. <br />
