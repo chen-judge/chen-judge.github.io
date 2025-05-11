@@ -69,7 +69,7 @@ ACM International Conference on Multimedia (**MM** 2020)<br />
 ## Other Publications
 <strong><font style = "color:#1f57b8">Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models</font></strong><br />
 Bang Zhang, Ruotian Ma, Qingxuan Jiang, Peisong Wang, **Jiaqi Chen**, Zheng Xie, Xingyu Chen, Yue Wang, Fanghua Ye, Jian Li, Yifan Yang, Zhaopeng Tu, Xiaolong Li<br />
-[[arXiv]](https://arxiv.org/abs/2505.02847)  [[Code]](https://github.com/tencent/digitalhuman/SAGE) <br />
+[[arXiv]](https://arxiv.org/abs/2505.02847)  [[Code]](https://github.com/Tencent/digitalhuman/tree/main/SAGE) <br />
 
 <strong><font style = "color:#1f57b8">S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning</font></strong><br />
 Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, **Jiaqi Chen**, Bang Zhang, Xin Zhou, Nan Du, Jia Li<br />
