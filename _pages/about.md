@@ -73,7 +73,8 @@ Bang Zhang, Ruotian Ma, Qingxuan Jiang, Peisong Wang, **Jiaqi Chen**, Zheng Xie,
 
 <strong><font style = "color:#1f57b8">S$^2$R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning</font></strong><br />
 Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, **Jiaqi Chen**, Bang Zhang, Xin Zhou, Nan Du, Jia Li<br />
-[[arXiv]](https://arxiv.org/abs/2502.12853)  [[Code]](https://github.com/NineAbyss/S2R/) <br />
+Annual Meeting of the Association for Computational Linguistics (**ACL** 2025)<br />
+[[Paper]](https://arxiv.org/abs/2502.12853)  [[Code]](https://github.com/NineAbyss/S2R/) <br />
 
 <strong><font style = "color:#1f57b8">NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning</font></strong><br />
 Bingqian Lin, Yunshuang Nie, Ziming Wei, **Jiaqi Chen**, Shikui Ma, Jianhua Han, Hang Xu, Xiaojun Chang, Xiaodan Liang <br />
