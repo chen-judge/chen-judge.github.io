@@ -67,6 +67,11 @@ ACM International Conference on Multimedia (**MM** 2020)<br />
 
 
 ## Other Publications
+
+<strong><font style = "color:#1f57b8">SeePhys: Does Seeing Help Thinking? – Benchmarking Vision-Based Physics Reasoning</font></strong><br />
+Kun Xiang, Heng Li, Terry Jingchen Zhang, Yinya Huang, and Zirong Liu, Peixin Qu, Jixi He, **Jiaqi Chen**, Yuan Yu-Jie, Jianhua Han, Hang Xu, Hanhui Li, Mrinmaya Sachan, Xiaodan Liang<br />
+[[arXiv]](https://arxiv.org/abs/2505.19099) [[Project]](https://seephys.github.io/) [[Code]](https://github.com/SeePhys/seephys-project) <br />
+
 <strong><font style = "color:#1f57b8">Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models</font></strong><br />
 Bang Zhang, Ruotian Ma, Qingxuan Jiang, Peisong Wang, **Jiaqi Chen**, Zheng Xie, Xingyu Chen, Yue Wang, Fanghua Ye, Jian Li, Yifan Yang, Zhaopeng Tu, Xiaolong Li<br />
 [[arXiv]](https://arxiv.org/abs/2505.02847)  [[Code]](https://github.com/Tencent/digitalhuman/tree/main/SAGE) <br />
