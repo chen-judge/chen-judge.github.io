@@ -48,7 +48,7 @@ Annual AAAI Conference on Artificial Intelligence (**AAAI** 2025)<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2024)<br />
 [[Paper]](https://arxiv.org/abs/2401.07314) [[Project]](https://chen-judge.github.io/MapGPT/) [[Code]](https://github.com/chen-judge/MapGPT/) <br />
 
-<span style="font-size:18px;">**Computer Vision**</span>
+<span style="font-size:18px;">**Visual Representation Learning**</span>
 - <strong><font style = "color:#1f57b8">UltraPose: Synthesizing Dense Pose with 1 Billion Points by Human-Body Decoupling 3D Model</font></strong><br />
 Haonan Yan*, <strong>Jiaqi Chen*</strong>, Xujie Zhang, Shengkai Zhang, Nianhong Jiao, Xiaodan Liang, Tianxiang Zheng<br />
 International Conference on Computer Vision (**ICCV** 2021)<br />
