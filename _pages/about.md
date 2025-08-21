@@ -88,7 +88,8 @@ IEEE Transactions on Pattern Analysis and Machine Intelligence (**T-PAMI** 2025)
 
 <strong><font style = "color:#1f57b8">Structured Preference Optimization for Vision-Language Long-Horizon Task Planning</font></strong><br />
 Xiwen Liang, Min Lin, Weiqi Ruan, Rongtao Xu, Yuecheng Liu, **Jiaqi Chen**, Bingqian Lin, Yuzheng Zhuang, Xiaodan Liang<br />
-[[arXiv]](https://arxiv.org/abs/2502.20742) 
+The Conference on Empirical Methods in Natural Language Processing (**EMNLP** 2025) <br />
+[[Paper]](https://arxiv.org/abs/2502.20742) 
 
 
 <strong><font style = "color:#1f57b8">Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation</font></strong><br />
