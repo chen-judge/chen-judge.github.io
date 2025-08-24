@@ -29,7 +29,7 @@ The Conference on Empirical Methods in Natural Language Processing (**EMNLP** 20
 - <strong><font style = "color:#1f57b8">GeoQA: A Geometric Question Answering Benchmark Towards Multimodal Numerical Reasoning</font></strong><br />
 <strong>Jiaqi Chen</strong>\*, Jianheng Tang\*, Jinghui Qin, Xiaodan Liang, Lingbo Liu, Eric Xing, Liang Lin<br />
 Annual Meeting of the Association for Computational Linguistics (**ACL** 2021 Findings)<br />
-[[Paper]](https://arxiv.org/abs/2105.14517) [[Code]](https://github.com/chen-judge/GeoQA) [[Media]](https://mp.weixin.qq.com/s?__biz=MzIwNzc2NTk0NQ==&mid=2247516415&idx=2&sn=efa68338a8175608178f56dd99bcd54d&scene=21#wechat_redirect)
+[[Paper]](https://arxiv.org/abs/2105.14517) [[Code]](https://github.com/chen-judge/GeoQA)
 
 - <strong><font style = "color:#1f57b8">IconQA: A New Benchmark for Abstract Diagram Understanding and Visual Language Reasoning</font></strong><br />
 Pan Lu, Liang Qiu, <strong>Jiaqi Chen</strong>, Tony Xia, Yizhou Zhao, Wei Zhang, Zhou Yu, Xiaodan Liang, Song-Chun Zhu<br />
