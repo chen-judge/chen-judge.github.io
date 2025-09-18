@@ -19,8 +19,8 @@ My research mainly covers the following three areas. <br />
 <span style="font-size:18px;">**Reasoning**</span>
 - <strong><font style = "color:#1f57b8">SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning</font></strong><br />
 **Jiaqi Chen**, Bang Zhang, Ruotian Ma, Peisong Wang, Xiaodan Liang, Zhaopeng Tu, Xiaolong Li, Kwan-Yee K. Wong<br />
-Conference on Neural Information Processing Systems (NeurIPS 2025)<br />
-[[arXiv:2504.19162]](https://arxiv.org/abs/2504.19162)  [[Project]](https://chen-judge.github.io/SPC/) [[Code]](https://github.com/chen-judge/SPC/) <br />
+Conference on Neural Information Processing Systems (**NeurIPS** 2025)<br />
+[[Paper]](https://arxiv.org/abs/2504.19162)  [[Project]](https://chen-judge.github.io/SPC/) [[Code]](https://github.com/chen-judge/SPC/) <br />
 
 - <strong><font style = "color:#1f57b8">UniGeo: Unifying Geometry Logical Reasoning via Reformulating Mathematical Expression</font></strong><br />
 <strong>Jiaqi Chen</strong>, Tong Li, Jinghui Qin, Pan Lu, Liang Lin, Chongyu Chen, Xiaodan Liang<br />
