@@ -72,7 +72,7 @@ ACM International Conference on Multimedia (**MM** 2020)<br />
 <strong><font style = "color:#1f57b8">SeePhys: Does Seeing Help Thinking? – Benchmarking Vision-Based Physics Reasoning</font></strong><br />
 Kun Xiang, Heng Li, Terry Jingchen Zhang, Yinya Huang, and Zirong Liu, Peixin Qu, Jixi He, **Jiaqi Chen**, Yuan Yu-Jie, Jianhua Han, Hang Xu, Hanhui Li, Mrinmaya Sachan, Xiaodan Liang<br />
 **NeurIPS** 2025 Datasets and Benchmarks Track<br />
-[[arXiv]](https://arxiv.org/abs/2505.19099) [[Project]](https://seephys.github.io/) [[Code]](https://github.com/SeePhys/seephys-project) <br />
+[[Paper]](https://arxiv.org/abs/2505.19099) [[Project]](https://seephys.github.io/) [[Code]](https://github.com/SeePhys/seephys-project) <br />
 
 <strong><font style = "color:#1f57b8">Sentient Agent as a Judge: Evaluating Higher-Order Social Cognition in Large Language Models</font></strong><br />
 Bang Zhang, Ruotian Ma, Qingxuan Jiang, Peisong Wang, **Jiaqi Chen**, Zheng Xie, Xingyu Chen, Yue Wang, Fanghua Ye, Jian Li, Yifan Yang, Zhaopeng Tu, Xiaolong Li<br />
@@ -96,7 +96,8 @@ The Conference on Empirical Methods in Natural Language Processing (**EMNLP** 20
 
 <strong><font style = "color:#1f57b8">Unseen from Seen: Rewriting Observation-Instruction Using Foundation Models for Augmenting Vision-Language Navigation</font></strong><br />
 Ziming Wei, Bingqian Lin, Yunshuang Nie, **Jiaqi Chen**, Shikui Ma, Hang Xu, Xiaodan Liang<br />
-[[arXiv]](https://arxiv.org/abs/2503.18065)  [[Code]](https://github.com/SaDil13/VLN-RAM) <br />
+IEEE Transactions on Neural Networks and Learning Systems (**TNNLS** 2025) <br />
+[[Paper]](https://arxiv.org/abs/2503.18065)  [[Code]](https://github.com/SaDil13/VLN-RAM) <br />
 
 <strong><font style = "color:#1f57b8">Template-based Contrastive Distillation Pre-training for Math Word Problem Solving</font></strong><br />
 Jinghui Qin, Zhicheng Yang, <strong>Jiaqi Chen</strong>, Xiaodan Liang and Liang Lin<br />
